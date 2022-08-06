@@ -1,5 +1,2 @@
 os  https://linuxize.com/post/python-get-change-current-working-directory/#:~:text=To%20find%20the%20current%20working,chdir(path)%20.
-glob https://pynative.com/python-list-files-in-directory-with-extension-txt/#:~:text=Use%20the%20os.,directories%20present%20in%20the%20directory.
-move files == https://stackoverflow.com/questions/8858008/how-to-move-a-file-in-python
-
-working with files in python == https://realpython.com/working-with-files-in-python/
+shutil
