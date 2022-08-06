@@ -1,0 +1,21 @@
+_______________Need_______________
+    access to file directory
+    get a list of file extensions
+    move some files
+    create folders
+    delete duplicates
+    give a report
+
+_________________Program_____________
+    get the directory from user
+    get a list of extensions
+    make some folders after identified extension names
+    move them
+     and move the rest to a new folder called tem
+     while deleting the duplicates
+
+     ______
+     give the user a report
+
+
+
