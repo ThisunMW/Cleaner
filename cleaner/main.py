@@ -7,8 +7,10 @@ exe = []
 vid = []
 img = []
 mode = 0o666
+print("replace \"\\\" to \"\\\\\" in you're directory path")
+usersPath = input("Path$ ")
 
-os.chdir("C:\\Users\\thwan\\Downloads")
+os.chdir(usersPath)
 extensions.append(os.listdir(os.getcwd()))
 
 
